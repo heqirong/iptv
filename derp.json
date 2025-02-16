@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "888": {
+      "RegionID": 888,
+      "RegionCode": "ali-sh",
+      "RegionName": "Aliyun Shanghai",
+      "Nodes": [
+        {
+          "Name": "888a",
+          "RegionID": 888,
+          "DERPPort": 10043,
+          "HostName": "39.108.140.253",
+          "IPv4": "39.108.140.253",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
